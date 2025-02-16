@@ -22,8 +22,8 @@ This project analyzes **customer purchasing behavior** across different product 
 ## 📎 Files in this Folder
 - 📄 `customer_purchase_data.csv` → Raw dataset
 - 📜 `analysis.sql` → SQL queries used for data analysis *(to be added)*
-- 📊 `dashboard.pbix` → Power BI dashboard *(if applicable)*
-- 📑 `insights.pdf` → Business report summarizing findings *(to be added)*
+- 📊 `dashboard.pbix` → Power BI dashboard *(to be added)*
+- 📑 `insights.pdf` → Business report summarizing findings
 
 🚀 **Next Steps**: Improve this analysis by adding **predictive analytics (customer segmentation, retention modeling)**.
 
